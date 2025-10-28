@@ -6,7 +6,6 @@ Ben **Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf** öğrencisiyi
 📱 Şu anda **Flutter** ile mobil uygulama geliştirme üzerine yoğunlaşıyorum.  
 🧪 Aktif olarak **Rick and Morty Wiki App** projesi üzerinde çalışıyorum.  
 
-
 ### 🌐 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KorayTemizkan-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/koraytemizkan/)
-[![Instagram](https://img.shields.io/badge/Instagram-kkkkorayyyy-blue?logo=instagram&logoColor=white)](https://www.instagram.com/kkkkorayyyy/)
+[![LinkedIn](https://img.shields.io/badge/-KorayTemizkan-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/koraytemizkan/)
+[![Instagram](https://img.shields.io/badge/-kkkkorayyyy-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kkkkorayyyy/)
