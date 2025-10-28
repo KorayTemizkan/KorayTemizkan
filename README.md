@@ -8,4 +8,5 @@ Ben **Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf** öğrencisiyi
 
 ### 🌐 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KorayTemizkan-blue?style=flat)](https://www.linkedin.com/in/koraytemizkan/)
-[![Instagram](https://img.shields.io/badge/Instagram-kkkkorayyyy-E4405F?style=flat)](https://www.instagram.com/kkkkorayyyy/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-kkkkorayyyy-blue?style=flat)](https://www.instagram.com/kkkkorayyyy/)
