@@ -1,1 +1,12 @@
-Koray Temizkan
+# 👋 Merhaba, ben Koray!
+
+Ben **Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf** öğrencisiyim. 
+
+💼 Daha önce **Yandex**’te *Arama Motoru Kalite Geliştirme Uzmanı* olarak çalıştım.  
+📱 Şu anda **Flutter** ile mobil uygulama geliştirme üzerine yoğunlaşıyorum.  
+🧪 Aktif olarak **Rick and Morty Wiki App** projesi üzerinde çalışıyorum.  
+
+
+### 🌐 Bana Ulaşın
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KorayTemizkan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koraytemizkan/)  
+[![GitHub](https://img.shields.io/badge/GitHub-KorayTemizkan-black?logo=github&logoColor=white)](https://github.com/KorayTemizkan)
