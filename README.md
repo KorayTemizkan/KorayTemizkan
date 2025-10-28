@@ -7,5 +7,5 @@ Ben **Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf** öğrencisiyi
 🧪 Aktif olarak **Rick and Morty Wiki App** projesi üzerinde çalışıyorum.  
 
 ### 🌐 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/-KorayTemizkan-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/koraytemizkan/)
-[![Instagram](https://img.shields.io/badge/-kkkkorayyyy-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kkkkorayyyy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KorayTemizkan-blue?style=flat)](https://www.linkedin.com/in/koraytemizkan/)
+[![Instagram](https://img.shields.io/badge/Instagram-kkkkorayyyy-E4405F?style=flat)](https://www.instagram.com/kkkkorayyyy/)
