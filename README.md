@@ -28,8 +28,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KorayTemizkan&show_icons=true&locale=en&layout=compact" alt="KorayTemizkan" /></p>
-
 <h3 align="left">My Top Used Languages and Tools:</h3>
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
