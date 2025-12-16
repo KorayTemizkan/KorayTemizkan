@@ -9,8 +9,6 @@
 ### 🌐 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KorayTemizkan-blue?style=flat)](https://www.linkedin.com/in/koraytemizkan/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-kkkkorayyyy-blue?style=flat)](https://www.instagram.com/kkkkorayyyy/)
-
 ---
 
 # 👋 Hi, I’m Koray! <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK" width="20"/>
@@ -24,19 +22,15 @@
 ### 🌐 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KorayTemizkan-blue?style=flat)](https://www.linkedin.com/in/koraytemizkan/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-kkkkorayyyy-blue?style=flat)](https://www.instagram.com/kkkkorayyyy/)
-
 ---
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=KorayTemizkan&layout=compact&count_private=true"
+       width="34%" />
 
-<h3 align="left">My Top Used Languages and Tools:</h3>
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
+  <img align="middle"
+       src="https://github-readme-stats.vercel.app/api?username=KorayTemizkan&show_icons=true&count_private=true"
+       width="45%" />
 </p>
+
+<br clear="both"/>
