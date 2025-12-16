@@ -4,10 +4,7 @@
 
 💼 Daha önce **Yandex**’te *Arama Motoru Kalite Geliştirme Uzmanı* olarak çalıştım.  
 📱 Şu anda **Flutter** ile mobil uygulama geliştirme üzerine yoğunlaşıyorum.  
-🧪 Aktif olarak **Rick and Morty Wiki App** projesi üzerinde çalışıyorum.  
-
-### 🌐 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KorayTemizkan-blue?style=flat)](https://www.linkedin.com/in/koraytemizkan/)
+🧪 Aktif olarak **RickAndMortyWiki ve KnittingApp** projeleri üzerinde çalışıyorum.  
 
 ---
 
@@ -17,10 +14,7 @@
 
 💼 I previously worked at **Yandex** as a *Search Engine Quality Improvement Specialist*.  
 📱 I’m currently focusing on **mobile app development with Flutter**.  
-🧪 I’m actively working on the **Rick and Morty Wiki App** project.  
-
-### 🌐 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KorayTemizkan-blue?style=flat)](https://www.linkedin.com/in/koraytemizkan/)
+🧪 I’m actively working on the **RickAndMortyWiki and KnittingApp** projects.  
 
 ---
 <p>
