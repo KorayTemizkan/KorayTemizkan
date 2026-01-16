@@ -2,9 +2,8 @@
 
 **Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim**.
 
-💼 Daha önce **Yandex**’te *Arama Motoru Kalite Geliştirme Uzmanı* olarak çalıştım.  
-📱 Şu anda **Flutter** ile mobil uygulama geliştirme üzerine yoğunlaşıyorum.  
-🧪 Aktif olarak **RickAndMortyWiki ve KnittingApp** projeleri üzerinde çalışıyorum.  
+📱 Şu anda **Flutter** ile **mobil uygulama geliştirme** üzerine yoğunlaşıyorum.  
+🧪 Aktif olarak **KnittingApp** projesi üzerinde çalışıyorum.  
 
 ---
 
@@ -12,19 +11,14 @@
 
 **I'm a 3rd-year Computer Engineering student at Sakarya University**.
 
-💼 I previously worked at **Yandex** as a *Search Engine Quality Improvement Specialist*.  
 📱 I’m currently focusing on **mobile app development with Flutter**.  
-🧪 I’m actively working on the **RickAndMortyWiki and KnittingApp** projects.  
+🧪 I’m actively working on the **KnittingApp** project.  
 
 ---
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=KorayTemizkan&layout=compact&count_private=true"
-       width="34%" />
 
-  <img align="middle"
-       src="https://github-readme-stats.vercel.app/api?username=KorayTemizkan&show_icons=true&count_private=true"
-       width="45%" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=KorayTemizkan&layout=compact&theme=vision-friendly-dark" width="39%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KorayTemizkan&show_icons=true&theme=vision-friendly-dark" width="48%" />
+</div>
 
 <br clear="both"/>
