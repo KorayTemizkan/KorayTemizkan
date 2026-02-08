@@ -1,18 +1,10 @@
-# 👋 Merhaba, ben Koray! <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="TR" width="20"/>
+# ✨ Merhaba, ben Koray!
 
-**Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim**.
+**👨‍💻 Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim**.
 
-📱 Şu anda **Flutter** ile **mobil uygulama geliştirme** üzerine yoğunlaşıyorum.  
-🧪 Aktif olarak **KnittingApp** projesi üzerinde çalışıyorum.  
-
----
-
-# 👋 Hi, I’m Koray! <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK" width="20"/>
-
-**I'm a 3rd-year Computer Engineering student at Sakarya University**.
-
-📱 I’m currently focusing on **mobile app development with Flutter**.  
-🧪 I’m actively working on the **KnittingApp** project.  
+📱 **Flutter** ile **mobil uygulama geliştirme** üzerine yoğunlaşıyorum.  
+🧪 Aktif olarak **Tığcık** mobil uygulamasını geliştiriyorum.  
+🏢 **Neon Apps’te Flutter Developer Trainee** olarak çalışıyorum.
 
 ---
 <div align="left">
