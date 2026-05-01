@@ -1,8 +1,8 @@
 # ✨ Merhaba, Ben Koray!
 
-👨‍💻 **Sakarya Üniversitesi bilgisayar mühendisliği** 3.sınıf öğrencisiyim.
-🏢 **Neon Apps** Şirketinde **Flutter Developer Trainee** olarak çalışıyorum.
-📱 **Uygulamalarım**: The Met: Art & Museum Guide, Bizim Çocuklar: Dünya Kupası.
+👨‍💻 **Sakarya Üniversitesi** bilgisayar mühendisliği 3.sınıf öğrencisiyim.<br>
+🏢 **Neon Apps** şirketinde **Flutter Developer Trainee** olarak çalışıyorum.<br>
+📱 **Uygulamalarım**: The Met: Art & Museum Guide, Bizim Çocuklar: Dünya Kupası.<br>
 
 ---
 <div align="left">
