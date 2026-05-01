@@ -1,10 +1,8 @@
 # ✨ Merhaba, Ben Koray!
 
-**👨‍💻 Sakarya Üniversitesi Bilgisayar Mühendisliği 3.Sınıf Öğrencisiyim**.
-
-📱 **Flutter** ile **mobil uygulama geliştirme** alanında uzmanlaşıyorum.  
-🧪 Aktif olarak **Tığcık** mobil uygulamasını geliştiriyorum.  
-🏢 **Neon Apps Şirketinde Flutter Developer Trainee** olarak çalışıyorum.
+👨‍💻 **Sakarya Üniversitesi bilgisayar mühendisliği** 3.sınıf öğrencisiyim.
+🏢 **Neon Apps** Şirketinde **Flutter Developer Trainee** olarak çalışıyorum.
+📱 **Uygulamalarım**: The Met: Art & Museum Guide, Bizim Çocuklar: Dünya Kupası.
 
 ---
 <div align="left">
