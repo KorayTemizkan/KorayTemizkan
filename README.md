@@ -1,4 +1,4 @@
-# ✨ Merhaba, Ben Koray!
+# Merhaba, Ben Koray!
 
 👨‍💻 **Sakarya Üniversitesi** bilgisayar mühendisliği 3.sınıf öğrencisiyim.<br>
 🏢 **Neon Apps** şirketinde **Flutter Developer Trainee** olarak çalışıyorum.<br>
